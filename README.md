@@ -1,3 +1,4 @@
+#INTRO
 This repo contains the projects done during the two-week bootcamp organised by **Lux Academy**.
 
 ##Week 1
