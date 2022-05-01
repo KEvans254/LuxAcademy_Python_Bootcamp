@@ -1,4 +1,4 @@
-# Authenitcation System
+# Authentication System
 
 Using Python Django framework to build an **Authentication System**.
 The front end is done using Bootstrap.
